@@ -7,6 +7,9 @@ weights*
 .vscode
 .idea
 runs
+kite_tutorial.ipynb
+*.mp4
+*.jpg
 
 # outputs
 outputs

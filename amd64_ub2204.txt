@@ -1,0 +1,10 @@
+ipykernel
+opencv-contrib-python>=4.2.0.32
+yolov5
+# -f https://download.openmmlab.com/mmcv/dist/cu117/torch1.13.0/index.html
+# mmcv-full==1.7.0
+# mmdet==2.26.0
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
+detectron2
+transformers
+timm
