@@ -32,3 +32,7 @@ pip install -U openmim
 ```shell
 mim install mmcv-full==1.7.0
 ```
+```shell
+conda install -n base -c conda-forge jupyterlab_widgets
+conda install -n sahi -c conda-forge ipywidgets
+```
